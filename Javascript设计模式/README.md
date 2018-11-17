@@ -1,4 +1,5 @@
 > Book Name: 《JavaScript设计模式》
+
 > Author: 张容铭
 
 #### Chapter 2
